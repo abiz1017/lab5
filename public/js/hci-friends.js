@@ -4,7 +4,7 @@
 $(document).ready(function() {
 	initializePage();
 })
-
+$(#name a).
 /*
  * Function that is called when the document is ready.
  */
